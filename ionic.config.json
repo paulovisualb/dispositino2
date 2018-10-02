@@ -1,0 +1,7 @@
+{
+  "name": "adivinha",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
